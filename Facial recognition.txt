@@ -32,3 +32,82 @@ As with other commonly used biometric technologies like fingerprint recognition,
 Thouh the software can vary, the process of facial recognition tends to follow three basic steps.
 
 First, your face is captured with a photo or video. It doesn't matter if you are alone or in a crowd, it can happen in real-time. The software then measures a variety of facial features called landmarks or nodal points on the face. These could include the distance between the eyes, the width of the nose, depth of eye sockets, distance from forehead to chin. Each program uses different nodal points and may collect up to 80 different measurements. This information is then converted into a mathematical formula which represents your unique facial signature. That facial signature is then compared to a database of known faces. This can all happen in a matter of seconds.
+
+
+here are some uses of face recognition
+1:06
+the first use of face recognition can be
+1:09
+to verify if a person is a valid user
+1:11
+for example
+1:12
+in an office environment to reduce
+1:14
+threats a face recognition camera could
+1:17
+see if a known person matches the badge
+1:19
+or if they're in the office database
+1:21
+even the u.s
+1:22
+customs and border protection officers
+1:24
+use face recognition
+1:26
+to check if a person matches his or her
+1:28
+passport picture
+1:31
+face recognition is also being used in
+1:33
+apple face id and apple pay
+1:36
+the next use of face recognition can
+1:39
+actually
+1:40
+diagnose some diseases too for example
+1:43
+if there's a noticeable change in one's
+1:45
+face
+1:46
+then with advanced face recognition
+1:48
+technology it can diagnose certain
+1:50
+diseases
+1:51
+the national human genome institute
+1:53
+research institute
+1:54
+uses face recognition to detect a rare
+1:57
+disease called the de george syndrome
+2:00
+and it helped diagnose the disease in 96
+2:03
+percent of the cases
+2:04
+that's a lot and the third use of face
+2:07
+recognition can be to control access to
+2:10
+sensitive areas
+2:11
+it can be used to grant access to
+2:13
+facilities like labs
+2:14
+boardrooms bank faults training centers
+2:17
+for athletes
+2:17
+and other sensitive locations it can
+2:20
+also be used to grant
+2:22
+access to data centers
