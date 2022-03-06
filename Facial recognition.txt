@@ -1,3 +1,32 @@
+
+well face recognition is a branch of aid
+0:36
+that can uniquely identify a person by
+0:38
+analyzing known patterns
+0:40
+with it it can analyze a picture and
+0:42
+recognize the faces that are in
+0:44
+it facial recognition technology can be
+0:46
+as good or
+0:47
+even better than humans in determining
+0:50
+whether two photographed images are of
+0:52
+the same person
+0:53
+unlike face detection face recognition
+0:56
+needs a little more programming
+0:57
+instructions as you have to code it to
+0:59
+recognize patterns of known faces
+
 Facial recognition is a biometric tool 
 As with other commonly used biometric technologies like fingerprint recognition, iris recognition and finger vein pattern recognition identifies a person based on specific aspects of their physiology. 
 Thouh the software can vary, the process of facial recognition tends to follow three basic steps.
