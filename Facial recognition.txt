@@ -1,0 +1,5 @@
+Facial recognition is a biometric tool 
+As with other commonly used biometric technologies like fingerprint recognition, iris recognition and finger vein pattern recognition identifies a person based on specific aspects of their physiology. 
+Thouh the software can vary, the process of facial recognition tends to follow three basic steps.
+
+First, your face is captured with a photo or video. It doesn't matter if you are alone or in a crowd, it can happen in real-time. The software then measures a variety of facial features called landmarks or nodal points on the face. These could include the distance between the eyes, the width of the nose, depth of eye sockets, distance from forehead to chin. Each program uses different nodal points and may collect up to 80 different measurements. This information is then converted into a mathematical formula which represents your unique facial signature. That facial signature is then compared to a database of known faces. This can all happen in a matter of seconds.
