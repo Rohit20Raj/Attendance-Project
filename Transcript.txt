@@ -1,0 +1,27 @@
+WHAT IS FACE RECOGNITION?
+Face recognition is a branch of AI that can uniquely identify a person by analyzing known patterns. With this, computers can analyze a picture and recognize the faces that are in it.
+Facial recognition technology can be as good or even better than humans in determining whether two photographed images are of the same person.
+
+
+HOW FACE RECOGNITION TECHNOLOGY WORKS ?
+The process of facial recognition tends to follow three basic steps.
+1. First, your face is captured with a photo or video. It doesn't matter if you are alone or in a crowd, it can happen in real-time. 
+2.The software then measures a variety of facial features called landmarks or nodal points on the face. These could include the distance between the eyes, the width of the nose, depth of eye sockets, distance from forehead to chin. Each program uses different nodal points and may collect up to 80 different measurements. 
+3.This information is then converted into a mathematical formula which represents your unique facial signature. That facial signature is then compared to a database of known faces. 
+This can all happen in a matter of seconds.
+
+USES OF FACE RECOGNITION TECHNOLOGY?
+1. One use of face recognition can be to verify if a person is a valid user. For example, in an office the camera could see if the face of a person standing is in the office database. It is also used in smartphone's face unlock.
+2. Face recognition can be used to diagnose diseases too. For example, if their is noticeable change in one's face, then with advanced face recognition technology it can recognise certain diseases. 
+3. Face recognition technology can be used to control access to senstive area, it can be used to grant access to facilities like labs, boardrooms, bank vaults, etc.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+
+
+We have used the powers of AI to make an attendance project, which uses facial recognition to recognise faces through a webcam, in real time.
+When the program detects a face, it compares the facial signature to a data base of known faces and marks the name & time on an Excel sheet at the same time.
+
+
+This program is made in Python.
+NumPy, OpenCV-Python, CMake, Dlib and Face-Recognition library has been used.
