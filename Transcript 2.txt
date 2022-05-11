@@ -1,0 +1,19 @@
+Slide 3.
+
+We have already discussed what is face recognition. It is a branch of AI that can uniquely identify a person by analyzing known patterns.
+
+It works by measuring a variety of facial features called landmarks or nodal points on the face and then compares it to a database of known faces.
+
+It is used to verify if a person is valid user. It is used to diagnose diseases, it is also used to control access to sensitive areas.
+
+An attendance project has also been made which uses facial recognition in real time and updates the name & time in an Excel sheet.
+
+Slide 4.
+
+Now we have move one step further, by creating a Graphical User Interface for the application.
+Python has been used as the programming language due to the inbuilt functions and vast number of libraries present in it.
+PyQT has been used to create the User Interface.
+
+Slide 5.
+ 
+Here we have a facial recognition display, this will display the real time facial recognition from the camera. Then there is a check-in and check-out button which on click will trigger the command to log attendance based on check in or check out status. Then we have a status which will provide feedback to the user, by displaying the current date and time and showing them the status of who was detected and what is their check in status is and if they check out, how much time they have worked.

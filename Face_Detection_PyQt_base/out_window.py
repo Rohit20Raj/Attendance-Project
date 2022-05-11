@@ -86,7 +86,7 @@ class Ui_OutputDialog(QDialog):
                             if buttonReply == QMessageBox.Yes:
 
                                 date_time_string = datetime.datetime.now().strftime("%y/%m/%d %H:%M:%S")
-                                f.writelines(f'\n{name},{date_time_string},Clock In')
+                                f.writelines(f'\n{name},{date_time_string},Check In')
                                 self.ClockInButton.setChecked(False)
 
                                 self.NameLabel.setText(name)
@@ -109,7 +109,7 @@ class Ui_OutputDialog(QDialog):
                             buttonReply = QMessageBox.question(self, 'Cheers ' + name, 'Are you Checking Out?', QMessageBox.Yes | QMessageBox.No, QMessageBox.No)
                             if buttonReply == QMessageBox.Yes:
                                 date_time_string = datetime.datetime.now().strftime("%y/%m/%d %H:%M:%S")
-                                f.writelines(f'\n{name},{date_time_string},Clock Out')
+                                f.writelines(f'\n{name},{date_time_string},Check Out')
                                 self.ClockOutButton.setChecked(False)
 
                                 self.NameLabel.setText(name)
